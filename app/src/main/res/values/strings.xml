@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meet011ContentProvider</string>
+    <string name="dao_type">DBManagerContentProvider</string>
+    <string name="content_provider_authorities_local">ru.relastic.meet011room.provider</string>
+    <string name="content_provider_authorities_remote">ru.relastic.meet010room.provider</string>
+    <string name="deliverSelfNotifications">false</string>
+
+</resources>
